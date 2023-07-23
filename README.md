@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&&color=12FFF7&height=200&section=header&text=ZZIONIE's%20GITHUB&fontSize=62&fontColor=ffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&&color=12FFF7&height=160&section=header&text=ZZIONIE's%20GITHUB&fontSize=62&fontColor=ffff&animation=fadeIn)
 
 <div align="center">
     <a href="https://hits.seeyoufarm.com">
@@ -29,4 +29,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kijiwon&layout=compact&theme=neon)
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=12FFF7)
