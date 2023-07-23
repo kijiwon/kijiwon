@@ -28,3 +28,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijiwon&show_icons=true&theme=neon)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kijiwon&layout=compact&theme=neon)
 </div>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=12FFF7)
