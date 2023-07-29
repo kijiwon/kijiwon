@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&&color=12FFF7&height=160&section=header&text=ZZIONIE's%20GITHUB&fontSize=62&fontColor=ffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&&color=12FFF7&height=160&section=header&text=ZZIONIE's%20GITHUB&fontSize=62&fontColor=667292&animation=fadeIn)
 
 <div align="center">
     <a href="https://hits.seeyoufarm.com">
