@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
     <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
     <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   </div><br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijiwon&show_icons=true&theme=neon)
