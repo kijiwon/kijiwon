@@ -2,10 +2,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=cylinder&&color=005AA7&height=160&section=header&text=ZZIONIE's%20GITHUB&fontSize=62&fontColor=FFEFBA&animation=fadeIn) 
 <br/><br/>
-    <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkijiwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
- <br/><br/>
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijiwon&show_icons=true&theme=neon) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kijiwon&layout=compact&theme=neon)
